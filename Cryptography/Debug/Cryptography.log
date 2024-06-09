@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+D:\Documents\DIPLOOOM\Projects\Cryptography\Kuznechik.h(113,9): warning C4101: i: неиспользованная локальная переменная
+D:\Documents\DIPLOOOM\Projects\Cryptography\Kuznechik.h(135,9): warning C4101: i: неиспользованная локальная переменная
+D:\Documents\DIPLOOOM\Projects\Cryptography\Kuznechik.h(273,26): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Documents\DIPLOOOM\Projects\Cryptography\Kuznechik.h(309,30): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Documents\DIPLOOOM\Projects\Cryptography\Kuznechik.h(345,29): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Documents\DIPLOOOM\Projects\Cryptography\Kuznechik.h(385,30): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Documents\DIPLOOOM\Projects\Cryptography\MyForm.h(186,26): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\DIPLOOOM\Projects\Cryptography\MyForm.h(188,27): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Documents\DIPLOOOM\Projects\Cryptography\MyForm.h(189,23): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Documents\DIPLOOOM\Projects\Cryptography\MyForm.cpp(11,15): warning C4551: в вызове функции отсутствует список аргументов
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Cryptography.vcxproj -> D:\Documents\DIPLOOOM\Projects\Cryptography\Debug\Cryptography.exe

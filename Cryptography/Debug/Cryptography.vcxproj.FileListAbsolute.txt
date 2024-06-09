@@ -1,0 +1,4 @@
+D:\Documents\DIPLOOOM\Projects\Cryptography\Debug\Cryptography.vcxproj.AssemblyReference.cache
+D:\Documents\DIPLOOOM\Projects\Cryptography\Debug\Cryptography.exe
+D:\Documents\DIPLOOOM\Projects\Cryptography\Debug\Cryptography.MyForm.resources
+D:\Documents\DIPLOOOM\Projects\Cryptography\Debug\Cryptography.vcxproj.GenerateResource.cache
